@@ -1,0 +1,9 @@
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\bin\Debug\Datos.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\bin\Debug\Datos.pdb
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\bin\Debug\Conexion.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\bin\Debug\Conexion.pdb
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\obj\Debug\Datos.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\Datos\obj\Debug\Datos.pdb

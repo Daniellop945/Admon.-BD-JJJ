@@ -1,0 +1,6 @@
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\bin\Debug\DAOInventario.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\bin\Debug\DAOInventario.pdb
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\obj\Debug\DAOInventario.csproj.AssemblyReference.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\obj\Debug\DAOInventario.csproj.CoreCompileInputs.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\obj\Debug\DAOInventario.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\DAOInventario\obj\Debug\DAOInventario.pdb

@@ -1,0 +1,6 @@
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\bin\Debug\Conexion.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\bin\Debug\Conexion.pdb
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\obj\Debug\Conexion.dll
+C:\Users\zonac\source\repos\Practica1_Inventarios\Conexion\obj\Debug\Conexion.pdb
